@@ -1,0 +1,23 @@
+{
+    "name": "IM Clear Messages",
+    "id": "im-clear-messages",
+    "version": "1.0.0",
+    "startFile": "index.ts",
+
+    "enabled": true,
+    "priority": 0,
+    "events": [],
+
+    "npmDependencies": [],
+    "requiredPlugins": [],
+    "incompatiblePlugins": [],
+
+    "details": {
+        "author": "Eseclick",
+        "shortDescription": "A simple plugin to delete a specific number of messages in a specific channel.",
+        "longDescription": "This version is a Dutch translation of the original work created by imperatorix17. All rights and credits for the original development belong to imperatorix17. This release only contains translation changes.",
+        "imageUrl": "",
+        "projectUrl": "",
+        "tags": ["clear-messages", "command", "custom", "moderation"]
+    }
+}
